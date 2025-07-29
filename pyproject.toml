@@ -1,0 +1,9 @@
+[project]
+name = "fundify-gemini"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10.11"
+dependencies = [
+    "unstructured[all-docs]>=0.18.9",
+]
